@@ -11,3 +11,4 @@ We can adjust for "screen time" by counting the number of mentions each characte
 Using this data, the top 5 from before are far less aggressive. More obviously bad characters like boggarts, the basilisk, Nagini, and random death eaters are the most aggressive:
 
 ![Aggression adjusted for mentions](https://raw.githubusercontent.com/andrewheiss/Harry-Potter-aggression/master/images/adjusted.png)
+Eva Marrero
